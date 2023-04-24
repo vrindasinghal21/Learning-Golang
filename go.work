@@ -1,0 +1,10 @@
+go 1.20
+
+use (
+	./Hello-World
+	./Scope
+	./Console-app
+	./HAMMER-BITCOIN
+	./string-interpolation
+	./Types
+)
